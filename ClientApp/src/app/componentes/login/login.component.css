@@ -1,0 +1,17 @@
+.areaLogin{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.cuadroLogin {
+  box-sizing: border-box;
+  margin: 120px;
+  width: 330px;
+  border-radius: 5px 5px 5px 5px;
+  border: 1px solid rgba(0,0,0,.06);
+  text-align: center;
+}
+.divInputs {
+  text-align: end;
+}
